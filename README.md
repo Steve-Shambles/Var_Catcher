@@ -7,7 +7,7 @@ load in a py file and this will create a function to trace its variables
 
 Load a python file and grab all the variables. Create and save a text file of the variables inside a def with print statements
 that will show their current values when run. For copy pasting back into the program and call the function from
-anywhwere and as many timesas you want for observation and debugging.
+anywhwere and as many times as you want for observation and debugging.
 
 Var catcher V1 By Steve Shambles April 2023
 (with the assistance of chatgpt3 lol)
