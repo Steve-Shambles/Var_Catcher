@@ -12,7 +12,7 @@ anywhwere and as many times as you want for observation and debugging.
 Var catcher V1 By Steve Shambles April 2023
 (with the assistance of chatgpt3 lol)
 
-I am aware some IDES do something similar but i like tio use a very basic and simple IDE, so there.
+I am aware some IDES do something similar but I like to use a very basic and simple IDE, so there.
 
 
 ![Alt Text](https://github.com/Steve-Shambles/Var_Catcher/blob/main/var_catcher_screenshot.png)
