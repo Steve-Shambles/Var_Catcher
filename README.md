@@ -12,3 +12,5 @@ I am aware some IDE'S do something similar but I like to use a very basic and si
 
 ![Alt Text](https://github.com/Steve-Shambles/Var_Catcher/blob/main/var_catcher_screenshot.png)
 
+To do: remove duplicate entries.
+
